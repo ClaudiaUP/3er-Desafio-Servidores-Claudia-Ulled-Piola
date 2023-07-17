@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Heladera",
+    "description": "Con freezer frost 424Lts.",
+    "price": 200000,
+    "thumbnail": "imagen1",
+    "code": "mn120",
+    "id": 1
+  },
+  {
+    "title": "Lavarropas",
+    "description": "Horizontal",
+    "price": 180000,
+    "thumbnail": "imagen2",
+    "code": "j40",
+    "id": 2
+  },
+  {
+    "title": "Cocina",
+    "description": "4 hornallas y timer",
+    "price": 150000,
+    "thumbnail": "imagen3",
+    "code": "fr75",
+    "id": 3
+  },
+  {
+    "title": "Aspiradora",
+    "description": "1000W",
+    "price": 89000,
+    "thumbnail": "imagen4",
+    "code": "yu65",
+    "id": 4
+  },
+  {
+    "title": "Heladera",
+    "description": "Sin freezer.",
+    "price": 80000,
+    "thumbnail": "imagen1",
+    "code": "zx102",
+    "id": 5
+  },
+  {
+    "title": "Lavarropas",
+    "description": "Superior",
+    "price": 180000,
+    "thumbnail": "imagen2",
+    "code": "zx134",
+    "id": 6
+  },
+  {
+    "title": "Cocina",
+    "description": "eléctrica",
+    "price": 150000,
+    "thumbnail": "imagen3",
+    "code": "zx85",
+    "id": 7
+  },
+  {
+    "title": "Aspiradora",
+    "description": "2000W",
+    "price": 89000,
+    "thumbnail": "imagen4",
+    "code": "cx78",
+    "id": 8
+  },
+  {
+    "title": "Notebook",
+    "description": "15.6\" Core 13 4GB",
+    "price": 380000,
+    "thumbnail": "imagen5",
+    "code": "zx100",
+    "id": 9
+  },
+  {
+    "title": "Impresora",
+    "description": "Multifunción Laser",
+    "price": 180000,
+    "thumbnail": "imagen6",
+    "code": "zxc13",
+    "id": 10
+  },
+  {
+    "title": "Reloj",
+    "description": "Inteligente, deportivo, Negro",
+    "price": 5400,
+    "thumbnail": "imagen7",
+    "code": "weq29",
+    "id": 11
+  },
+  {
+    "title": "Celular",
+    "description": "Samsung Galaxy",
+    "price": 89000,
+    "thumbnail": "imagen8",
+    "code": "mnb15",
+    "id": 12
+  },
+  {
+    "title": "Aire Acondicionado",
+    "description": "Split frio/calor",
+    "price": 264000,
+    "thumbnail": "imagen7",
+    "code": "ceq50",
+    "id": 13
+  },
+  {
+    "title": "Termotanque",
+    "description": "Seniorial 85 lts",
+    "price": 82000,
+    "thumbnail": "imagen8",
+    "code": "fgj87",
+    "id": 14
+  }
+]
