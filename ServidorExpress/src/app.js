@@ -4,7 +4,7 @@ import {ProductManager} from '../src/productManager.js';
 let productManager = new ProductManager();
 
 const app = express();
-const Port = 8040;
+const Port = 8080;
 
 app.use(express.urlencoded({extended: true}));;
 
